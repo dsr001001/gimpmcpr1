@@ -1,0 +1,29 @@
+
+
+#START OF RECEIVED MESSAGES
+
+“Familytester” +918100000000 ; 2025-10-12 13:05:19 IST ; Thanks recd 1314 and 1315
+“Familytester” +918100000000 ; 2025-10-12 13:10:31 IST ; Check overwrite
+“Familytester” +918100000000 ; 2025-10-12 13:10:32 IST ; How are you doing? All ok?
+“Familytester” +918100000000 ; 2025-10-12 13:50:32 IST ; Yes, it is the time for October heat
+“Familytester” +918100000000 ; 2025-10-12 15:55:00 IST ; I'm reading up some mags like economist, wsj. Any suggestions from you?
+
+
+“Familytester” +918100000000 ; 2025-10-12 17:44:21 IST ; I'll have to think about this, would prefer a small novel
+“Familytester” +918100000000 ; 2025-10-12 18:13:06 IST ; What's the length of Harry Potter novel, is it small? Think
+“Familytester” +918100000000 ; 2025-10-12 18:20:39 IST ; Who acted iin hera pheri
+“Familytester” +918100000000 ; 2025-10-12 19:01:06 IST ; Can you tell me who acted in Hera Pheri?
+“Familytester” +918100000000 ; 2025-10-12 19:01:55 IST ; Any other suggestion for Indian movie
+“Familytester” +918100000000 ; 2025-10-12 22:59:39 IST ; Anything related to sports
+“Familytester” +918100000000 ; 2025-10-12 23:00:37 IST ; Can you suggest any handicrafts
+“Familytester” +918100000000 ; 2025-10-12 23:01:30 IST ; Can you suggest any handicrafts
+“Familytester” +918100000000 ; 2025-10-12 23:02:00 IST ; Ok give me some examples
+“Familytester” +918100000000 ; 2025-10-12 23:02:46 IST ; Any particular pattern you like
+“Familytester” +918100000000 ; 2025-10-12 23:03:43 IST ; Who was actor in munnabhai
+“Familytester” +918100000000 ; 2025-10-12 23:05:34 IST ; Differentiate briefly the 2 munnabhai movies
+“Familytester” +918100000000 ; 2025-10-12 23:07:22 IST ; Tell me a poem from any sport that I may like?
+“Familytester” +918100000000 ; 2025-10-12 23:08:03 IST ; Check your list and name my sport
+“Familytester” +918100000000 ; 2025-10-12 23:09:08 IST ; You're right now get me a brief poem on each of these
+“Familytester” +918100000000 ; 2025-10-12 23:20:42 IST ; List my topics of interest known to you
+“Familytester” +918100000000 ; 2025-10-12 23:21:26 IST ; Give me a short intro of O henry
+“Familytester” +918100000000 ; 2025-10-12 23:23:21 IST ; Give me a story, use our today's interaction to write it

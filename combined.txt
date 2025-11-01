@@ -1,0 +1,98 @@
+#CONTEXT FOR USER CHAT
+
+Somerset Maugham
+Saki
+O Henry
+Consulting
+Green Energy
+Public Sector Projects
+Central Govt
+New Delhi
+Indore
+Madhya Pradesh
+Calligraphy
+Paper cutting
+Lord of the Rings
+Harry Potter
+Hera Pheri
+Indian Handicrafts
+Handlooms
+F1 Racing
+Williams F1 team
+
+
+
+
+
+#START OF SENT MESSAGES
+
++918100000000; 2025-10-12 13:03:42 IST, "Raam Raam sample outbox stored message auto send", Statussent: Success.
++918100000000; 2025-10-12 13:04:49 IST, "Raam Raam sample outbox stored message auto send check overwrite", Statussent: Success.
++918100000000; 2025-10-12 13:45:49 IST, "All ok here. Getting a bit warm today, yesterday was ok", Statussent: Success.
++918100000000; 2025-10-12 13:45:49 IST, "isn't this the October heat time for Delhi", Statussent: Success.
++918100000000; 2025-10-12 15:45:49 IST, "Yes, indeed! And what are you reading these days?", Statussent: Success.
++918100000000; 2025-10-12 16:00:27 IST, "Well, if you enjoy those, you might like Somerset Maugham or Saki for short stories. Or even some O Henry.", Statussent: Success.
++918100000000; 2025-10-12 17:42:35 IST, "Any preference between them? Maugham can be a bit cynical.", Statussent: Success.
++918100000000; 2025-10-12 18:11:22 IST, "Okay, if you prefer a small novel, have you read \"Lord of the Rings\" or \"Harry Potter\"? They're classics for a reason!", Statussent: Success.
++918100000000; 2025-10-12 18:13:34 IST, "Haha, not really! Those are pretty substantial. If you want something short and fun, have you ever watched the movie \"Hera Pheri\"?", Statussent: Success.
++918100000000; 2025-10-12 19:01:37 IST, "Akshay Kumar, Sunil Shetty and Paresh Rawal. It’s a comedy classic!", Statussent: Success.
++918100000000; 2025-10-12 19:02:08 IST, "Have you seen it?", Statussent: Success.
++918100000000; 2025-10-12 23:00:00 IST, "Not yet, but I will!", Statussent: Success.
++918100000000; 2025-10-12 23:00:15 IST, "Not yet! How about handicrafts or handlooms then? Do you know anyone who works with them?", Statussent: Success.
++918100000000; 2025-10-12 23:01:01 IST, "Great! Anything else that interests you these days?", Statussent: Success.
++918100000000; 2025-10-12 23:01:43 IST, "Great! Maybe something related to your consulting or public sector interests then? I've been following some developments in green energy and central govt projects in New Delhi and Indore, Madhya Pradesh.", Statussent: Success.
++918100000000; 2025-10-12 23:02:21 IST, "I am interested in Calligraphy and Paper cutting", Statussent: Success.
++918100000000; 2025-10-12 23:03:03 IST, "That's fantastic! I'm always looking for new inspiration. Any particular style of calligraphy or paper cutting you enjoy?", Statussent: Success.
++918100000000; 2025-10-12 23:03:13 IST, "That's interesting! Any particular style of calligraphy or paper cutting that you enjoy?", Statussent: Success.
++918100000000; 2025-10-12 23:04:00 IST, "Awesome! I admire the focus! Anything about consulting, green energy, central govt, projects, F1 racing (esp Williams team) Or handicrafts/ handlooms?", Statussent: Success.
++918100000000; 2025-10-12 23:05:01 IST, "Ah, you're testing my knowledge! Sanjay Dutt played Munna Bhai.", Statussent: Success.
++918100000000; 2025-10-12 23:06:13 IST, "The first one is about discovering he's the son of a gangster and deciding to become a doctor. The second is about fighting corruption in a hospital.", Statussent: Success.
++918100000000; 2025-10-12 23:07:49 IST, "I'm not sure about sports poems, but I can look some up. Are you interested in any particular sport?", Statussent: Success.
++918100000000; 2025-10-12 23:08:43 IST, "Let me see... based on our conversation, I'm guessing you might enjoy a poem about cricket or maybe even F1 racing! I'll search for some and let you know.", Statussent: Success.
++918100000000; 2025-10-12 23:09:37 IST, "Ok, searching for short poems on cricket and F1 racing...", Statussent: Success.
++918100000000; 2025-10-12 23:09:54 IST, "Okay, I'm on it! Give me a few minutes to find you a brief poem on both F1 racing and cricket.", Statussent: Success.
++918100000000; 2025-10-12 23:10:23 IST, "Okay, I'll find a brief poem about both cricket and F1 racing for you. Give me a few moments!", Statussent: Success.
++918100000000; 2025-10-12 23:15:29 IST, "Okay, based on our conversation, your topics of interest are:
+*   Short stories (Somerset Maugham, Saki, O Henry)
+*   Small novels (and a general interest in fantasy/YA like Lord of the Rings, Harry Potter)
+*   Indian movies (specifically Hera Pheri, and a general interest in Indian cinema)
+*   Calligraphy and Paper cutting
+*   Consulting
+*   Green Energy
+*   Public Sector Projects
+*   Central Government projects
+*   New Delhi and Indore, Madhya Pradesh
+*   F1 Racing (especially the Williams F1 team)
+*   Indian Handicrafts and Handlooms
+*   Sports (specifically cricket and F1 racing, for poems)", Statussent: Success.
++918100000000; 2025-10-12 23:16:11 IST, "Okay, I'll give you a brief introduction to O. Henry. He was an American short story writer, known for his witty, often poignant, and surprise-ending stories, particularly those set in New York City. His most famous works include \"The Gift of the Magi\" and \"The Ransom of Red Chief.\"", Statussent: Success.
++918100000000; 2025-10-12 23:16:54 IST, "Certainly! O. Henry was an American short story writer, celebrated for his witty, often poignant tales that frequently featured surprise endings. His stories were particularly well-known for their settings in New York City. Among his most famous works are \"The Gift of the Magi\" and \"The Ransom of Red Chief.\"", Statussent: Success.
+
+
+#START OF RECEIVED MESSAGES
+
+“Familytester” +918100000000 ; 2025-10-12 13:05:19 IST ; Thanks recd 1314 and 1315
+“Familytester” +918100000000 ; 2025-10-12 13:10:31 IST ; Check overwrite
+“Familytester” +918100000000 ; 2025-10-12 13:10:32 IST ; How are you doing? All ok?
+“Familytester” +918100000000 ; 2025-10-12 13:50:32 IST ; Yes, it is the time for October heat
+“Familytester” +918100000000 ; 2025-10-12 15:55:00 IST ; I'm reading up some mags like economist, wsj. Any suggestions from you?
+
+
+“Familytester” +918100000000 ; 2025-10-12 17:44:21 IST ; I'll have to think about this, would prefer a small novel
+“Familytester” +918100000000 ; 2025-10-12 18:13:06 IST ; What's the length of Harry Potter novel, is it small? Think
+“Familytester” +918100000000 ; 2025-10-12 18:20:39 IST ; Who acted iin hera pheri
+“Familytester” +918100000000 ; 2025-10-12 19:01:06 IST ; Can you tell me who acted in Hera Pheri?
+“Familytester” +918100000000 ; 2025-10-12 19:01:55 IST ; Any other suggestion for Indian movie
+“Familytester” +918100000000 ; 2025-10-12 22:59:39 IST ; Anything related to sports
+“Familytester” +918100000000 ; 2025-10-12 23:00:37 IST ; Can you suggest any handicrafts
+“Familytester” +918100000000 ; 2025-10-12 23:01:30 IST ; Can you suggest any handicrafts
+“Familytester” +918100000000 ; 2025-10-12 23:02:00 IST ; Ok give me some examples
+“Familytester” +918100000000 ; 2025-10-12 23:02:46 IST ; Any particular pattern you like
+“Familytester” +918100000000 ; 2025-10-12 23:03:43 IST ; Who was actor in munnabhai
+“Familytester” +918100000000 ; 2025-10-12 23:05:34 IST ; Differentiate briefly the 2 munnabhai movies
+“Familytester” +918100000000 ; 2025-10-12 23:07:22 IST ; Tell me a poem from any sport that I may like?
+“Familytester” +918100000000 ; 2025-10-12 23:08:03 IST ; Check your list and name my sport
+“Familytester” +918100000000 ; 2025-10-12 23:09:08 IST ; You're right now get me a brief poem on each of these
+“Familytester” +918100000000 ; 2025-10-12 23:20:42 IST ; List my topics of interest known to you
+“Familytester” +918100000000 ; 2025-10-12 23:21:26 IST ; Give me a short intro of O henry
+“Familytester” +918100000000 ; 2025-10-12 23:23:21 IST ; Give me a story, use our today's interaction to write it
