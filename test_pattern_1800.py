@@ -6,8 +6,20 @@ runs send_signal_simple.sh to send → clears outbox.txt.
 """
 import os
 import subprocess
-from dotenv import load_dotenv
-import google.generativeai as genai
+
+try:
+    from dotenv import load_dotenv
+except ImportError as exc:  # pragma: no cover - import guard
+    raise SystemExit(
+        "Missing dependency: python-dotenv. Install with 'pip install python-dotenv'."
+    ) from exc
+
+try:
+    import google.generativeai as genai
+except ImportError as exc:  # pragma: no cover - import guard
+    raise SystemExit(
+        "Missing dependency: google-generativeai. Install with 'pip install google-generativeai'."
+    ) from exc
 
 
 # === CONFIG ===
@@ -18,8 +30,17 @@ MODEL_NAME = "gemini-2.5-flash-lite"
 
 # === SETUP ===
 load_dotenv()
-genai.configure(api_key=os.getenv("API_KEY"))
-model = genai.GenerativeModel(MODEL_NAME)
+api_key = os.getenv("API_KEY")
+if not api_key:
+    raise SystemExit(
+        "API_KEY missing. Set API_KEY in your environment or .env file before running."
+    )
+
+genai.configure(api_key=api_key)
+try:
+    model = genai.GenerativeModel(MODEL_NAME)
+except Exception as exc:  # pragma: no cover - surface configuration issues early
+    raise SystemExit(f"Failed to initialise Gemini model '{MODEL_NAME}': {exc}") from exc
 
 
 # === FUNCTIONS ===
@@ -55,7 +76,11 @@ def main():
     combined = read_combined(COMBINED_PATH)
     prompt = build_prompt(combined)
     print("Generating response via Gemini...")
-    response = model.generate_content(prompt)
+    try:
+        response = model.generate_content(prompt)
+    except Exception as exc:
+        raise SystemExit(f"Gemini API request failed: {exc}") from exc
+
     message = (response.text or "").strip()
     if not message:
         print("No message generated — skipping send.")
